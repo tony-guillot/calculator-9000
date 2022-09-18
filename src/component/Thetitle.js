@@ -3,7 +3,7 @@
 function Thetitle(){
 
     return(
-        <h1> Calculatrice</h1>
+        <h1> Calculator 9000</h1>
     )
 }
 
