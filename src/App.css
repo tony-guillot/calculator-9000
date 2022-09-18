@@ -1,0 +1,74 @@
+
+
+body{
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+  font-family: 'VT323', monospace;
+
+}
+.App{
+  
+  width: 350px;
+  height: 540px;
+  padding: 10px;
+  border-radius: 10px;
+  border: solid 3PX;
+}
+.title{
+
+  text-align: center;
+}
+
+.screen{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width:  300px;
+  height: 50px;
+  text-shadow: 0 4px rgba(0,0,0,0.1);
+  font-size: 25px;
+  border-radius: 3%;
+  background-color: antiquewhite;
+
+  border: solid 2px;
+}
+
+.number button{
+ 
+
+  width: 25%;
+  height: 40px;
+  padding: 2%;
+  margin: 3%;
+  border-radius: 3%;
+}
+
+.number{
+
+  width: 100%;
+}
+
+.operation{
+
+  
+}
+
+.operation button{
+
+
+  width: 18%;
+  height: 40px;
+  padding: 2%;
+  margin: 3%;
+  border-radius: 3%;
+}
+
+.equal button{
+
+  width: 18%;
+  height: 40px;
+  padding: 2%;
+  margin: 3%;
+  border-radius: 3%;
+}
